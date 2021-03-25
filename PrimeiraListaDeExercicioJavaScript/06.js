@@ -11,7 +11,5 @@ const retornoJurosComposto = (capital, juros, tempo) => {
     console.log(`R$ ${montante}`)
 }
 
-
-
 retornoJurosSimples(1000, 0.01, 10)
 retornoJurosComposto(1000, 0.01, 10)
